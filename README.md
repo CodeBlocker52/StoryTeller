@@ -26,7 +26,7 @@ Given that these protocols are relatively nascent in the ecosystem, we encounter
 
 ## Technologies we used
 
-![technical-detail](./docs/technical-detail.png)
+![technical-detail](./assets/technical-detail.png)
 
 ### Story Protocol
 
@@ -52,7 +52,7 @@ The Graph tracks NFTs created within the gaming smart contract, simplifying deve
 
 ### Live App
 
-https://2024-eth-denver.vercel.app/
+https://story-teller-self.vercel.app/
 
 ### Pitch Deck
 
