@@ -60,8 +60,7 @@ https://www.canva.com/design/DAF-NEhA-gc/svbMlGQO8MVoXW-XCQ9NGw/edit?utm_content
 
 ### Github
 
-https://github.com/taijusanagi/2024-eth-denver
+[CodeBlocker](https://github.com/CodeBlocker52/StoryTeller)
 
 ## Video Demo
 
-https://youtu.be/niPgVHuH2jo
