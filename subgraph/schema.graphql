@@ -65,7 +65,7 @@ type Transfer @entity(immutable: true) {
 
 type branchMinterL1Set @entity(immutable: true) {
   id: Bytes!
-  branchMinterL1: Bytes! # address
+  branchMinterL1: Bytes! 
   status: Boolean! # bool
   blockNumber: BigInt!
   blockTimestamp: BigInt!
