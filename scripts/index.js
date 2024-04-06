@@ -160,9 +160,4 @@ async function readFromNormalDirectory() {
   console.log("result", str);
 }
 
-// setupBlobDirectory();
-// setupNormalDirectory();
-// uploadToBlobDirectory();
-// uploadToNormalDirectory();
-// readFromBlobDirectory();
-// readFromNormalDirectory();
+
