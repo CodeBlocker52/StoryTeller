@@ -8,13 +8,11 @@ declare module "hardhat/config" {
     ): TaskDefinition;
   }
   export interface HardhatRuntimeEnvironment {
+    export interface HardhatRuntimeEnvironment {
     viem: {
       getContractAt: (contractName: string, address: string) => Promise<any>;
-      // Add other methods and properties of 'viem' here as needed
+     
     };
-    // Define the properties and methods you need from the HardhatRuntimeEnvironment
-    // For example:
-    // getContractFactory: (name: string) => Promise<ContractFactory>;
   }
   export interface RunSuperFunction {
     (): Promise<void>;
