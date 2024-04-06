@@ -25,8 +25,18 @@ Subsequently, we identified the essential technologies for our project, notably 
 Given that these protocols are relatively nascent in the ecosystem, we encountered a scarcity of comprehensive documentation. This led us to seek assistance from the community to resolve specific issues.
 
 ## Technologies we used
-
 ![technical-detail](./assets/technical-detail.png)
+
+
+### Creators
+| Name            | Github                                         | Discord         |
+| --------------- | ---------------------------------------------- | --------------- |
+| Kundan Kumar | [@Kundan](https://github.com/CodeBlocker52)   | codefunky   |
+| Harsh Shende | [@harshshen](https://github.com/Harshshen)   | harshshende  |
+
+
+
+
 
 ### Story Protocol
 
@@ -62,5 +72,7 @@ https://www.canva.com/design/DAF-NEhA-gc/svbMlGQO8MVoXW-XCQ9NGw/edit?utm_content
 
 [CodeBlocker](https://github.com/CodeBlocker52/StoryTeller)
 
-## Video Demo
+### Licence
+MIT
+
 
