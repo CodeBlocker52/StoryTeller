@@ -49,6 +49,7 @@ Upload large prompt data into an EIP-4844 blob utilizing the ETHStorage SDK. Lar
 ### Chainlink
 
 Chainlink's function serves as a gateway to connect smart contracts with artificial intelligence. We utilize Chainlink functions to enable our backend access, aggregating previous gaming activity and generating new content using the OpenAI API.
+
 https://github.com/CodeBlocker52/StoryTeller/blob/main/app/src/app/page.tsx (lines: 133-309)
 
 ### Livepeer
