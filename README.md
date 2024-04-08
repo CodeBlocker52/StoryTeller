@@ -28,16 +28,6 @@ Given that these protocols are relatively nascent in the ecosystem, we encounter
 ![technical-detail](./assets/technical-detail.png)
 
 
-### Creators
-| Name            | Github                                         | Discord         |
-| --------------- | ---------------------------------------------- | --------------- |
-| Kundan Kumar | [@Kundan](https://github.com/CodeBlocker52)   | codefunky   |
-| Harsh Shende | [@harshshen](https://github.com/Harshshen)   | harshshende  |
-
-
-
-
-
 ### Story Protocol
 
 A custom smart contract interacts with Story Protocol's IP registration, licensing, and remix capabilities. User-created content becomes automatically trackable through Story Protocol, which could serve as the gateway to IP Finance (IPFi). This is a critical component of the incentive design for bottom-up IP creation and management.
@@ -76,5 +66,14 @@ https://www.canva.com/design/DAF-NEhA-gc/svbMlGQO8MVoXW-XCQ9NGw/edit?utm_content
 
 ### Licence
 MIT
+
+
+
+### Creators
+| Name            | Github                                         | Discord         |
+| --------------- | ---------------------------------------------- | --------------- |
+| Kundan Kumar | [@Kundan](https://github.com/CodeBlocker52)   | codefunky   |
+| Harsh Shende | [@harshshen](https://github.com/Harshshen)   | harshshende  |
+
 
 
